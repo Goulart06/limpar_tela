@@ -1,0 +1,2 @@
+ID:1 | Nome:banana | Preco por Kg: R$2.00 | Quantidade: 23.00 Kg
+ID:2 | Nome:gabriel | Preco por Kg: R$35.00 | Quantidade: 83.00 Kg
